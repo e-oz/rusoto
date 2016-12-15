@@ -38,7 +38,7 @@ serde_json = "0.8.0"
 time = "0.1.35"
 url = "1.2.0"
 xml-rs = "0.1.26"
-reqwest = "0.1.0"
+reqwest = "0.2.0"
 
 [dependencies.clippy]
 optional = true
